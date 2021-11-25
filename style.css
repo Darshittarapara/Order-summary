@@ -76,6 +76,10 @@ p {
   height: 5vh;
   border-radius: 15px;
 }
+.button1:hover {
+  color: black;
+  background-color: hsl(225, 100%, 94%);
+}
 .link {
   margin-bottom: 25px;
   font-size: 20px;
